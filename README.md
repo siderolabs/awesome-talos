@@ -13,3 +13,5 @@ Collection of awesome talos resource from the community
 <details open><summary><h2>Management</h2></summary>
 
   - [cluster-template](https://github.com/onedr0p/cluster-template) Opinionated template for deployment a talos cluster
+  - [terraform vsphere cluster](https://github.com/ilpozzd/terraform-talos-vsphere-cluster) Deploy a Kubernetes cluster based on Talos OS in vSphere
+  - [terraform vsphere vm](https://github.com/ilpozzd/terraform-talos-vsphere-vm) Deploy a Talos OS-based vSphere virtual machine in vSphere
