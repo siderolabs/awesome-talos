@@ -5,6 +5,7 @@ Collection of awesome talos resource from the community
 
 - [Libraries](#libraries)
 - [Management](#management)
+- [Tools](#tools)
 
 <details open><summary><h2>Libraries</h2></summary>
   
@@ -15,3 +16,7 @@ Collection of awesome talos resource from the community
   - [cluster-template](https://github.com/onedr0p/cluster-template) Opinionated template for deployment a talos cluster
   - [terraform vsphere cluster](https://github.com/ilpozzd/terraform-talos-vsphere-cluster) Deploy a Kubernetes cluster based on Talos OS in vSphere
   - [terraform vsphere vm](https://github.com/ilpozzd/terraform-talos-vsphere-vm) Deploy a Talos OS-based vSphere virtual machine in vSphere
+
+<details open><summary><h2>Tools</h2></summary>
+  
+- [talhelper](https://github.com/budimanjojo/talhelper) A tool to help creating Talos configuration files declaratively
