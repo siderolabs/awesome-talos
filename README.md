@@ -5,6 +5,7 @@ Collection of awesome talos resource from the community
 
 - [Libraries](#libraries)
 - [Management](#management)
+- [Tools](#tools)
 
 <details open><summary><h2>Libraries</h2></summary>
   
@@ -16,4 +17,7 @@ Collection of awesome talos resource from the community
   - [terraform proxmox cluster](https://github.com/roeldev/iac-talos-cluster) Deploy a Talos OS-based cluster in Proxmox using Terraform, with Cilium and ArgoCD
   - [terraform vsphere cluster](https://github.com/ilpozzd/terraform-talos-vsphere-cluster) Deploy a Kubernetes cluster based on Talos OS in vSphere
   - [terraform vsphere vm](https://github.com/ilpozzd/terraform-talos-vsphere-vm) Deploy a Talos OS-based vSphere virtual machine in vSphere
+
+<details open><summary><h2>Tools</h2></summary>
   
+- [talhelper](https://github.com/budimanjojo/talhelper) A tool to help creating Talos configuration files declaratively
