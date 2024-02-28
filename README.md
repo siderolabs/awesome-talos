@@ -21,3 +21,4 @@ Collection of awesome talos resource from the community
 <details open><summary><h2>Tools</h2></summary>
   
 - [talhelper](https://github.com/budimanjojo/talhelper) A tool to help creating Talos configuration files declaratively
+- [talos-ansible-playbooks](https://github.com/mgrzybek/talos-ansible-playbooks) Ansible playbooks to manage Talos Linux deployments
