@@ -22,6 +22,7 @@ Collection of awesome talos resource from the community
 <details open><summary><h2>Tools</h2></summary>
   
 - [talhelper](https://github.com/budimanjojo/talhelper) A tool to help creating Talos configuration files declaratively
+- [Talm](https://github.com/aenix-io/talm) A Helm-like utility for declarative configuration management of Talos Linux
 - [talos-bootstrap](https://github.com/aenix-io/talos-bootstrap) An interactive Talos Linux installer
 
 <details open><summary><h2>Distributions</h2></summary>
