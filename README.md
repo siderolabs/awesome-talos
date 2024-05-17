@@ -29,4 +29,5 @@ Collection of awesome talos resource from the community
 <details open><summary><h2>Distributions</h2></summary>
 
 - [cozystack](https://github.com/aenix-io/cozystack) An open-source PaaS platform for cloud providers based on Talos Linux
+- [kargo](https://github.com/ContainerCraft/Kargo) ContainerCraft Kubevirt PaaS Undercloud
 
