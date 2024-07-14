@@ -26,6 +26,7 @@ Collection of awesome talos resource from the community
 - [Talm](https://github.com/aenix-io/talm) A Helm-like utility for declarative configuration management of Talos Linux
 - [talos-ansible-playbooks](https://github.com/mgrzybek/talos-ansible-playbooks) Ansible playbooks to manage Talos Linux deployments
 - [talos-bootstrap](https://github.com/aenix-io/talos-bootstrap) An interactive Talos Linux installer
+- [ClusterTool] A opinionated tool streamlining deployment and management of Talos-Based clusters
 
 <details open><summary><h2>Distributions</h2></summary>
 
