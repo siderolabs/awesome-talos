@@ -3,10 +3,15 @@ Collection of awesome talos resource from the community
 
 ## Table of Contents
 
+- [Examples](#examples)
 - [Libraries](#libraries)
 - [Management](#management)
 - [Tools](#tools)
 - [Distributions](#distributions)
+
+<details open><summary><h2>Examples</h2></summary>
+
+- [Talos contrib](https://github.com/siderolabs/contrib) Talos examples in multiple clouds with multiple infrastructure tools
 
 <details open><summary><h2>Libraries</h2></summary>
   
