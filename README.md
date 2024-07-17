@@ -21,11 +21,13 @@ Collection of awesome talos resource from the community
   - [turnk8s](https://github.com/infraheads/turnk8s) Deploy Talos Linux based turnkey k8s clusters in a GitOps way on Proxmox with Netris and ArgoCD
 
 <details open><summary><h2>Tools</h2></summary>
-  
+
+- [ClusterTool](https://truecharts.org/clustertool/) An opinionated tool for deployment and management of Talos-Based clusters
 - [talhelper](https://github.com/budimanjojo/talhelper) A tool to help creating Talos configuration files declaratively
 - [Talm](https://github.com/aenix-io/talm) A Helm-like utility for declarative configuration management of Talos Linux
 - [talos-ansible-playbooks](https://github.com/mgrzybek/talos-ansible-playbooks) Ansible playbooks to manage Talos Linux deployments
 - [talos-bootstrap](https://github.com/aenix-io/talos-bootstrap) An interactive Talos Linux installer
+
 
 <details open><summary><h2>Distributions</h2></summary>
 
