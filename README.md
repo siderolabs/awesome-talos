@@ -13,6 +13,7 @@ Collection of awesome talos resource from the community
 
 - [Talos contrib](https://github.com/siderolabs/contrib) Talos examples in multiple clouds with multiple infrastructure tools
 - [Talos azure](https://github.com/Orzelius/talos-azure) Example configuration of running Talos on Azure with Pulumi
+- [Terraform Talos](https://github.com/sergelogvinov/terraform-talos/) Multi-cloud terraform examples for Talos
 
 <details open><summary><h2>Libraries</h2></summary>
   
