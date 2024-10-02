@@ -18,6 +18,7 @@ Collection of awesome talos resource from the community
 - [Terraform Talos Hetzner](https://github.com/miran248/terraform-talos-modules) Terraform modules for Talos on Hetzner
 
 <details open><summary><h2>Hardware</h2></summary>
+  
 - [Orange Pi 5](https://github.com/schneid-l/talos-orangepi5) Support for Orange Pi SBC
 - [Turing Pi v2](https://github.com/ro11net/tpi2-talos) Talos on Jetson Nano cluster
 
