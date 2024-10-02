@@ -4,10 +4,11 @@ Collection of awesome talos resource from the community
 ## Table of Contents
 
 - [Examples](#examples)
+- [Distributions](#distributions)
+- [Hardware](#Hardware)
 - [Libraries](#libraries)
 - [Management](#management)
 - [Tools](#tools)
-- [Distributions](#distributions)
 
 <details open><summary><h2>Examples</h2></summary>
 
@@ -15,6 +16,15 @@ Collection of awesome talos resource from the community
 - [Talos azure](https://github.com/Orzelius/talos-azure) Example configuration of running Talos on Azure with Pulumi
 - [Terraform Talos](https://github.com/sergelogvinov/terraform-talos/) Multi-cloud terraform examples for Talos
 - [Terraform Talos Hetzner](https://github.com/miran248/terraform-talos-modules) Terraform modules for Talos on Hetzner
+
+<details open><summary><h2>Hardware</h2></summary>
+- [Orange Pi 5](https://github.com/schneid-l/talos-orangepi5) Support for Orange Pi SBC
+- [Turing Pi v2](https://github.com/ro11net/tpi2-talos) Talos on Jetson Nano cluster
+
+<details open><summary><h2>Distributions</h2></summary>
+
+- [cozystack](https://github.com/aenix-io/cozystack) An open-source PaaS platform for cloud providers based on Talos Linux
+- [kargo](https://github.com/ContainerCraft/Kargo) ContainerCraft Kubevirt PaaS Undercloud
 
 <details open><summary><h2>Libraries</h2></summary>
   
@@ -38,8 +48,5 @@ Collection of awesome talos resource from the community
 - [talos-bootstrap](https://github.com/aenix-io/talos-bootstrap) An interactive Talos Linux installer
 - [talswitcher](https://github.com/mirceanton/talswitcher) A simple tool to help manage multiple talosconfig files
 
-<details open><summary><h2>Distributions</h2></summary>
 
-- [cozystack](https://github.com/aenix-io/cozystack) An open-source PaaS platform for cloud providers based on Talos Linux
-- [kargo](https://github.com/ContainerCraft/Kargo) ContainerCraft Kubevirt PaaS Undercloud
 
