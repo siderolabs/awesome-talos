@@ -21,6 +21,7 @@ Collection of awesome talos resource from the community
   
 - [Orange Pi 5](https://github.com/schneid-l/talos-orangepi5) Support for Orange Pi SBC
 - [Turing Pi v2](https://github.com/ro11net/tpi2-talos) Talos on Jetson Nano cluster
+- [Turing RK1](https://github.com/nberlee/talos) Support Turing RK1 Compute module
 
 <details open><summary><h2>Distributions</h2></summary>
 
