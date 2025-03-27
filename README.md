@@ -15,6 +15,7 @@ Collection of awesome talos resource from the community
 
 - [Talos contrib](https://github.com/siderolabs/contrib) Talos examples in multiple clouds with multiple infrastructure tools
 - [Talos azure](https://github.com/Orzelius/talos-azure) Example configuration of running Talos on Azure with Pulumi
+- [Talos on Proxmox](https://github.com/alperencelik/kubemox/tree/main/examples/talos) Example configuration of running Talos on Proxmox with Kubemox
 - [Terraform Talos](https://github.com/sergelogvinov/terraform-talos/) Multi-cloud terraform examples for Talos
 - [Terraform Talos Hetzner](https://github.com/miran248/terraform-talos-modules) Terraform modules for Talos on Hetzner
 
