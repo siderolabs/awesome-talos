@@ -5,6 +5,7 @@ Collection of awesome talos resource from the community
 ## Table of Contents
 
 - [Examples](#examples)
+- [Community Extensions](#extensions)
 - [Distributions](#distributions)
 - [Hardware](#Hardware)
 - [Libraries](#libraries)
@@ -18,6 +19,10 @@ Collection of awesome talos resource from the community
 - [Talos on Proxmox](https://github.com/alperencelik/kubemox/tree/main/examples/talos) Example configuration of running Talos on Proxmox with Kubemox
 - [Terraform Talos](https://github.com/sergelogvinov/terraform-talos/) Multi-cloud terraform examples for Talos
 - [Terraform Talos Hetzner](https://github.com/miran248/terraform-talos-modules) Terraform modules for Talos on Hetzner
+
+<details open><summary><h2>Extensions</h2></summary>
+
+- [chaosd](https://github.com/qjoly/talos.chaosd.extension/) Extension for [Chaos Mesh](https://chaos-mesh.org/)
 
 <details open><summary><h2>Hardware</h2></summary>
 
