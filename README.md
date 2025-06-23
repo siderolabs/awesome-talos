@@ -20,9 +20,13 @@ Collection of awesome talos resource from the community
 - [Terraform Talos](https://github.com/sergelogvinov/terraform-talos/) Multi-cloud terraform examples for Talos
 - [Terraform Talos Hetzner](https://github.com/miran248/terraform-talos-modules) Terraform modules for Talos on Hetzner
 
+</details>
+
 <details open><summary><h2>Extensions</h2></summary>
 
 - [chaosd](https://github.com/qjoly/talos.chaosd.extension/) Extension for [Chaos Mesh](https://chaos-mesh.org/)
+
+</details>
 
 <details open><summary><h2>Hardware</h2></summary>
 
@@ -31,15 +35,20 @@ Collection of awesome talos resource from the community
 - [Orange Pi 5](https://github.com/schneid-l/talos-orangepi5) Support for Orange Pi SBC 
 - [Turing RK1](https://github.com/nberlee/talos) Support Turing RK1 Compute module
 
+</details>
 
 <details open><summary><h2>Distributions</h2></summary>
 
 - [cozystack](https://github.com/aenix-io/cozystack) An open-source PaaS platform for cloud providers based on Talos Linux
 - [kargo](https://github.com/ContainerCraft/Kargo) ContainerCraft Kubevirt PaaS Undercloud
 
+</details>
+
 <details open><summary><h2>Libraries</h2></summary>
 
 - [talos-linux-api](https://github.com/stereobutter/talos-linux-api) 🐍 Python bindings for the Talos Linux gRPC API
+
+</details>
 
 <details open><summary><h2>Management</h2></summary>
 
@@ -50,6 +59,9 @@ Collection of awesome talos resource from the community
 - [Talos Hetzner Dedicated Control](https://github.com/ErikLundJensen/thdctl) CLI to create Talos based Kubernetes clusters with Hetzner dedicated servers
 - [TJ's Kubernetes Service](https://github.com/zimmertr/TJs-Kubernetes-Service) Terraform template for running HA Talos cluster on Proxmox
 - [turnk8s](https://github.com/infraheads/turnk8s) Deploy Talos Linux based turnkey k8s clusters in a GitOps way on Proxmox with Netris and ArgoCD
+- [talos-controlplane-on-k8s](https://github.com/blackliner/talos-controlplane-on-k8s) Run a Talos controlplane inside a Kubernetes cluster
+
+</details>
 
 <details open><summary><h2>Tools</h2></summary>
 
@@ -59,3 +71,5 @@ Collection of awesome talos resource from the community
 - [talos-ansible-playbooks](https://github.com/mgrzybek/talos-ansible-playbooks) Ansible playbooks to manage Talos Linux deployments
 - [talos-bootstrap](https://github.com/aenix-io/talos-bootstrap) An interactive Talos Linux installer
 - [talswitcher](https://github.com/mirceanton/talswitcher) A simple tool to help manage multiple talosconfig files
+
+</details>
