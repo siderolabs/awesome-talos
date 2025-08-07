@@ -53,6 +53,7 @@ Collection of awesome talos resource from the community
 <details open><summary><h2>Management</h2></summary>
 
 - [cluster-template](https://github.com/onedr0p/cluster-template) Opinionated template for deployment a talos cluster
+- [Hcloud Kubernetes](https://github.com/hcloud-k8s/terraform-hcloud-kubernetes) Terraform Module to Deploy a Highly Available, Production-Ready Talos Kubernetes Cluster on Hetzner Cloud
 - [Kubernetes as a Service](https://github.com/kubebn/talos-proxmox-kaas) Example Terraform deployment on Proxmox
 - [terraform proxmox cluster](https://github.com/roeldev/iac-talos-cluster) Deploy a Talos OS-based cluster in Proxmox using Terraform, with Cilium and ArgoCD
 - [terraform vsphere cluster](https://github.com/ilpozzd/terraform-talos-vsphere-cluster) Deploy a Kubernetes cluster based on Talos OS in vSphere
