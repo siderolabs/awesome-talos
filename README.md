@@ -59,6 +59,7 @@ Collection of awesome talos resource from the community
 - [terraform vsphere cluster](https://github.com/ilpozzd/terraform-talos-vsphere-cluster) Deploy a Kubernetes cluster based on Talos OS in vSphere
 - [terraform vsphere vm](https://github.com/ilpozzd/terraform-talos-vsphere-vm) Deploy a Talos OS-based vSphere virtual machine in vSphere
 - [Talos Hetzner Dedicated Control](https://github.com/ErikLundJensen/thdctl) CLI to create Talos based Kubernetes clusters with Hetzner dedicated servers
+- [Talos Operator](https://github.com/alperencelik/talos-operator) A Kubernetes operator to manage Talos Linux clusters on Kubernetes
 - [TJ's Kubernetes Service](https://github.com/zimmertr/TJs-Kubernetes-Service) Terraform template for running HA Talos cluster on Proxmox
 - [turnk8s](https://github.com/infraheads/turnk8s) Deploy Talos Linux based turnkey k8s clusters in a GitOps way on Proxmox with Netris and ArgoCD
 - [talos-controlplane-on-k8s](https://github.com/blackliner/talos-controlplane-on-k8s) Run a Talos controlplane inside a Kubernetes cluster
