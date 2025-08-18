@@ -14,6 +14,7 @@ Collection of awesome talos resource from the community
 
 <details open><summary><h2>Examples</h2></summary>
 
+- [Boot to Talos](https://github.com/cozystack/boot-to-talos) Convert any live Linux distro to Talos
 - [Talos contrib](https://github.com/siderolabs/contrib) Talos examples in multiple clouds with multiple infrastructure tools
 - [Talos azure](https://github.com/Orzelius/talos-azure) Example configuration of running Talos on Azure with Pulumi
 - [Talos on Proxmox](https://github.com/alperencelik/kubemox/tree/main/examples/talos) Example configuration of running Talos on Proxmox with Kubemox
