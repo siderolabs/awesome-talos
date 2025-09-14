@@ -75,5 +75,6 @@ Collection of awesome talos resource from the community
 - [talos-ansible-playbooks](https://github.com/mgrzybek/talos-ansible-playbooks) Ansible playbooks to manage Talos Linux deployments
 - [talos-bootstrap](https://github.com/aenix-io/talos-bootstrap) An interactive Talos Linux installer
 - [talswitcher](https://github.com/mirceanton/talswitcher) A simple tool to help manage multiple talosconfig files
+- [Talos provider for Pulumi](https://www.pulumi.com/registry/packages/talos/) Deploy Talos with Pulumi
 
 </details>
