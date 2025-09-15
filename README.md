@@ -6,10 +6,10 @@ Collection of awesome talos resource from the community
 
 - [Examples](#examples)
 - [Community Extensions](#extensions)
-- [Distributions](#distributions)
 - [Hardware](#Hardware)
 - [Libraries](#libraries)
 - [Management](#management)
+- [Talos-Based Projects](#talos-based-projects)
 - [Tools](#tools)
 
 <details open><summary><h2>Examples</h2></summary>
@@ -38,9 +38,11 @@ Collection of awesome talos resource from the community
 
 </details>
 
-<details open><summary><h2>Distributions</h2></summary>
+<details open><summary><h2>Talos-Based Projects</h2></summary>
 
 - [cozystack](https://github.com/aenix-io/cozystack) An open-source PaaS platform for cloud providers based on Talos Linux
+- [harbor-turnkey](https://github.com/max-pfeiffer/harbor-turnkey) Harbor as a turnkey solution: running on a Kubernetes single node cluster using Talos Linux and Proxmox VE.
+  Provisioning with OpenTofu. [Works nicely as pull through image cache for a bigger Talos cluster.](https://www.talos.dev/v1.11/talos-guides/configuration/pull-through-cache/#using-harbor-as-a-caching-registry)
 - [kargo](https://github.com/ContainerCraft/Kargo) ContainerCraft Kubevirt PaaS Undercloud
 
 </details>
