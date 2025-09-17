@@ -26,6 +26,7 @@ Collection of awesome talos resource from the community
 <details open><summary><h2>Extensions</h2></summary>
 
 - [chaosd](https://github.com/qjoly/talos.chaosd.extension/) Extension for [Chaos Mesh](https://chaos-mesh.org/)
+- [FRR](https://github.com/vitaly-zverev/frr-talos-extension) Free Range Routing for Talos including BGP
 
 </details>
 
