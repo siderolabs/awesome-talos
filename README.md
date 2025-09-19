@@ -51,6 +51,7 @@ Collection of awesome talos resource from the community
 <details open><summary><h2>Libraries</h2></summary>
 
 - [talos-linux-api](https://github.com/stereobutter/talos-linux-api) 🐍 Python bindings for the Talos Linux gRPC API
+- [SideroLabs.Omni.Api](https://github.com/panoramicdata/SideroLabs.Omni.Api) .NET gRPC library for Omni
 
 </details>
 
