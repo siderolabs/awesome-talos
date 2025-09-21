@@ -70,11 +70,11 @@ Collection of awesome talos resource from the community
 <details open><summary><h2>Tools</h2></summary>
 
 - [ClusterTool](https://truecharts.org/clustertool/) An opinionated tool for deployment and management of Talos-Based clusters
+- [Pulumi provider](https://www.pulumi.com/registry/packages/talos/) Deploy Talos with Pulumi
 - [talhelper](https://github.com/budimanjojo/talhelper) A tool to help creating Talos configuration files declaratively
 - [Talm](https://github.com/aenix-io/talm) A Helm-like utility for declarative configuration management of Talos Linux
 - [talos-ansible-playbooks](https://github.com/mgrzybek/talos-ansible-playbooks) Ansible playbooks to manage Talos Linux deployments
 - [talos-bootstrap](https://github.com/aenix-io/talos-bootstrap) An interactive Talos Linux installer
 - [talswitcher](https://github.com/mirceanton/talswitcher) A simple tool to help manage multiple talosconfig files
-- [Talos provider for Pulumi](https://www.pulumi.com/registry/packages/talos/) Deploy Talos with Pulumi
 
 </details>
