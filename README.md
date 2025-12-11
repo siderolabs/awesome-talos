@@ -70,6 +70,7 @@ Collection of awesome talos resource from the community
 - [turnk8s](https://github.com/infraheads/turnk8s) Deploy Talos Linux based turnkey k8s clusters in a GitOps way on Proxmox with Netris and ArgoCD
 - [talos-controlplane-on-k8s](https://github.com/blackliner/talos-controlplane-on-k8s) Run a Talos controlplane inside a Kubernetes cluster
 - [Talos CSR Signer](https://github.com/clastix/talos-csr-signer) gRPC Server satisfying `securityapi` signature to let Talos-based worker nodes join a kubeadm-based Kubernetes Hosted Control Plane
+- [tuppr](https://github.com/home-operations/tuppr) Kubernetes controller to upgrade Talos and Kubernetes
 
 </details>
 
