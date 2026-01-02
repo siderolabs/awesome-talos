@@ -82,7 +82,7 @@ Collection of awesome talos resource from the community
 - [Talm](https://github.com/aenix-io/talm) A Helm-like utility for declarative configuration management of Talos Linux
 - [talos-ansible-playbooks](https://github.com/mgrzybek/talos-ansible-playbooks) Ansible playbooks to manage Talos Linux deployments
 - [talos-bootstrap](https://github.com/aenix-io/talos-bootstrap) An interactive Talos Linux installer
+- [talos-incus](https://github.com/windsorcli/talos-incus) A simplestream server that proxies Talos images for use with Incus
 - [talswitcher](https://github.com/mirceanton/talswitcher) A simple tool to help manage multiple talosconfig files
-- [talos-incus](https://github.com/windsorcli/talos-incus). A simplestream server that proxies Talos images for use with Incus
 
 </details>
