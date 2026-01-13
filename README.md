@@ -83,6 +83,7 @@ Collection of awesome talos resource from the community
 - [talos-ansible-playbooks](https://github.com/mgrzybek/talos-ansible-playbooks) Ansible playbooks to manage Talos Linux deployments
 - [talos-bootstrap](https://github.com/aenix-io/talos-bootstrap) An interactive Talos Linux installer
 - [talos-incus](https://github.com/windsorcli/talos-incus) A simplestream server that proxies Talos images for use with Incus
+- [talos-pilot](https://github.com/handfish/talos-pilot) A TUI for real-time node monitoring, log streaming, etcd health, diagnostics, and node actions
 - [talswitcher](https://github.com/mirceanton/talswitcher) A simple tool to help manage multiple talosconfig files
 
 </details>
