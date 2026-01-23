@@ -71,6 +71,7 @@ Collection of awesome talos resource from the community
 - [talos-controlplane-on-k8s](https://github.com/blackliner/talos-controlplane-on-k8s) Run a Talos controlplane inside a Kubernetes cluster
 - [Talos CSR Signer](https://github.com/clastix/talos-csr-signer) gRPC Server satisfying `securityapi` signature to let Talos-based worker nodes join a kubeadm-based Kubernetes Hosted Control Plane
 - [tuppr](https://github.com/home-operations/tuppr) Kubernetes controller to upgrade Talos and Kubernetes
+- [Kangal-Patch](https://github.com/uozalp/kangal-patch) Automates rolling upgrades of Talos Linux nodes in Kubernetes clusters, handling draining, updates, and reboots safely.
 
 </details>
 
