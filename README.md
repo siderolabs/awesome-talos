@@ -86,5 +86,6 @@ Collection of awesome talos resource from the community
 - [talos-incus](https://github.com/windsorcli/talos-incus) A simplestream server that proxies Talos images for use with Incus
 - [talos-pilot](https://github.com/handfish/talos-pilot) A TUI for real-time node monitoring, log streaming, etcd health, diagnostics, and node actions
 - [talswitcher](https://github.com/mirceanton/talswitcher) A simple tool to help manage multiple talosconfig files
+- [talos-extension-playground](https://github.com/rezachalak/talos-extension-playground) A simple tool to help extension development
 
 </details>
