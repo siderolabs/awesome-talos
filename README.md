@@ -81,6 +81,7 @@ Collection of awesome talos resource from the community
 <details open><summary><h2>Tools</h2></summary>
 
 - [ClusterTool](https://truecharts.org/clustertool/) An opinionated tool for deployment and management of Talos-Based clusters
+- [KubeStellar Console](https://console.kubestellar.io) - Open source AI-powered multi-cluster Kubernetes dashboard for managing Talos Linux clusters with real-time observability and CNCF integrations. CNCF Sandbox project.
 - [Pulumi provider](https://www.pulumi.com/registry/packages/talos/) Deploy Talos with Pulumi
 - [talhelper](https://github.com/budimanjojo/talhelper) A tool to help creating Talos configuration files declaratively
 - [Talm](https://github.com/aenix-io/talm) A Helm-like utility for declarative configuration management of Talos Linux
