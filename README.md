@@ -36,7 +36,7 @@ Collection of awesome talos resource from the community
 <details open><summary><h2>Hardware</h2></summary>
 
 - [Turing Pi v2](https://github.com/ro11net/tpi2-talos) Talos on Jetson Nano cluster
-> Orange Pi5 and Turing RK1 Are Officaly Supported by Talos after 1.9
+> Orange Pi5 and Turing RK1 Are Officially Supported by Talos after 1.9
 - [Orange Pi 5](https://github.com/schneid-l/talos-orangepi5) Support for Orange Pi SBC 
 - [Turing RK1](https://github.com/nberlee/talos) Support Turing RK1 Compute module
 - [x86_64 UFS](https://github.com/amoyrtil/talos-ufs) Custom Talos Linux builds with UFS (Universal Flash Storage) driver support for x86_64 devices
