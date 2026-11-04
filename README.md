@@ -19,6 +19,7 @@ Collection of awesome talos resource from the community
 - [`nextboot-talos`](https://salsa.debian.org/debian/nextboot-talos) Convert installed Linux systems, such as a _VPSes_, to Talos
 - [Talos contrib](https://github.com/siderolabs/contrib) Talos examples in multiple clouds with multiple infrastructure tools
 - [Talos azure](https://github.com/Orzelius/talos-azure) Example configuration of running Talos on Azure with Pulumi
+- [Talos machine config with Kapitan](https://github.com/kadet-hub/examples/tree/main/talos-machine-config) Talos machine configs generated from one Kapitan inventory and validated with talosctl
 - [Talos on Proxmox](https://github.com/alperencelik/kubemox/tree/main/examples/talos) Example configuration of running Talos on Proxmox with Kubemox
 - [Terraform Talos](https://github.com/sergelogvinov/terraform-talos/) Multi-cloud terraform examples for Talos
 - [Terraform Talos Hetzner](https://github.com/miran248/terraform-talos-modules) Terraform modules for Talos on Hetzner
