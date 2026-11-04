@@ -92,6 +92,7 @@ Collection of awesome talos resource from the community
 - [talos-pilot](https://github.com/handfish/talos-pilot) A TUI for real-time node monitoring, log streaming, etcd health, diagnostics, and node actions
 - [talswitcher](https://github.com/mirceanton/talswitcher) A simple tool to help manage multiple talosconfig files
 - [TOPF](https://github.com/postfinance/topf) Manages Talos cluster lifecycle with layered patches and SOPS support
+- [talosctl-cluster-action](https://github.com/home-operations/talosctl-cluster-action): GitHub Action that provisions an ephemeral Talos cluster (QEMU or Docker)
 
 </details>
 
