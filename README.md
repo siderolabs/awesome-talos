@@ -50,6 +50,7 @@ Collection of awesome talos resource from the community
 - [harbor-turnkey](https://github.com/max-pfeiffer/harbor-turnkey) Harbor as a turnkey solution: running on a Kubernetes single node cluster using Talos Linux and Proxmox VE.
   Provisioning with OpenTofu. [Works nicely as pull through image cache for a bigger Talos cluster.](https://www.talos.dev/v1.11/talos-guides/configuration/pull-through-cache/#using-harbor-as-a-caching-registry)
 - [kargo](https://github.com/ContainerCraft/Kargo) ContainerCraft Kubevirt PaaS Undercloud
+- [kommodity](https://github.com/kommodity-io/kommodity) CAPI Based Talos deployment tooling
 
 </details>
 
