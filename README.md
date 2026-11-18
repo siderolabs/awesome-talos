@@ -109,6 +109,7 @@ Collection of awesome talos resource from the community
 - [Oxide](https://github.com/oxidecomputer/omni-infra-provider-oxide) (Supported)
 - [AWS](https://github.com/rothgar/omni-infra-provider-aws) (Community)
 - [OpenStack](https://github.com/rothgar/omni-infra-provider-openstack) (Community)
+- [OpenStack (pjsinka)](https://github.com/pjsinka/omni-infra-provider-openstack) (Community)
 - [Openmetal](https://github.com/rothgar/omni-infra-provider-openmetal) (Community)
 - [OVHcloud](https://github.com/ktijssen/omni-ovhcloud-infra-provider) (Community)
 - [Nutanix Prism Element](https://github.com/ktijssen/omni-nutanix-infra-provider) (Community)
