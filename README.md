@@ -41,6 +41,7 @@ Collection of awesome talos resource from the community
 - [Orange Pi 5](https://github.com/schneid-l/talos-orangepi5) Support for Orange Pi SBC 
 - [Turing RK1](https://github.com/nberlee/talos) Support Turing RK1 Compute module
 - [x86_64 UFS](https://github.com/amoyrtil/talos-ufs) Custom Talos Linux builds with UFS (Universal Flash Storage) driver support for x86_64 devices
+- [Raspberry Pi 5 Support](https://github.com/talos-rpi5/talos-builder) Community-built Talos images for RPi5 machines, with NIC, NVMe support, among other patches
 
 </details>
 
